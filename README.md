@@ -4,3 +4,7 @@ This is a program to save, manage, and create strong passwords securely. With th
 # Some information about usage
 1. You have to run this program as administrator to use it.
 2. At the first, this program will ask you a password. Enter _**admin**_ to open program. Then you can change this password.
+
+# Author inforamtion
+Author of this program is Arman Jamshidi. 
+You can contact with this email: [jamshidiarman1388@gmail.com](jamshidiarman1388@gmail.com)
