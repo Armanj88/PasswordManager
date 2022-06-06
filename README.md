@@ -7,4 +7,4 @@ This is a program to save, manage, and create strong passwords securely. With th
 
 # Author inforamtion
 Author of this program is Arman Jamshidi. 
-You can contact with this email: [jamshidiarman1388@gmail.com](jamshidiarman1388@gmail.com)
+You can contact with this email: [jamshidiarman1388@gmail.com](mailto:jamshidiarman1388@gmail.com)
